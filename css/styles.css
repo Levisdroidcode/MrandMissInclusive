@@ -113,8 +113,9 @@ p, li {
     }
 
 .header{
-	margin-top: 100px;
+	margin-top: 0px;
 	padding: 50px 0;
+	margin-bottom: 20px;
 }
 .heading-icon{
 	margin-top: 79px;
